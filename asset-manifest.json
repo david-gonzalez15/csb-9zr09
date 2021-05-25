@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://david-gonzalez15.github.io/csb-9zr09/static/js/main.e3a2fc92.chunk.js",
+    "main.js.map": "https://david-gonzalez15.github.io/csb-9zr09/static/js/main.e3a2fc92.chunk.js.map",
+    "runtime-main.js": "https://david-gonzalez15.github.io/csb-9zr09/static/js/runtime-main.6f329604.js",
+    "runtime-main.js.map": "https://david-gonzalez15.github.io/csb-9zr09/static/js/runtime-main.6f329604.js.map",
+    "static/js/2.cacd0bd1.chunk.js": "https://david-gonzalez15.github.io/csb-9zr09/static/js/2.cacd0bd1.chunk.js",
+    "static/js/2.cacd0bd1.chunk.js.map": "https://david-gonzalez15.github.io/csb-9zr09/static/js/2.cacd0bd1.chunk.js.map",
+    "index.html": "https://david-gonzalez15.github.io/csb-9zr09/index.html",
+    "static/js/2.cacd0bd1.chunk.js.LICENSE.txt": "https://david-gonzalez15.github.io/csb-9zr09/static/js/2.cacd0bd1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f329604.js",
+    "static/js/2.cacd0bd1.chunk.js",
+    "static/js/main.e3a2fc92.chunk.js"
+  ]
+}
